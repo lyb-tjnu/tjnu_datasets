@@ -10,7 +10,7 @@ Figure below shows the campaigns of terrestrial laser scanning data collection.
 Sample TLS (left) and UAV photogrammetric (right) point clouds are shown below.
 <img src="TLS and Photogrammetric Point Clouds.png" alt="Network" style="zoom:50%;" />
 
-Tables below show the detailed of the TLS and UAV photogrammetric point clouds.
+Tables below show the details of the TLS and UAV photogrammetric point clouds.
 <img src="Specifications of TLS Point Clouds.png" alt="Network" style="zoom:50%;" />
 
 <img src="Specifications of UAV Photogrammetry.png" alt="Network" style="zoom:50%;" />
